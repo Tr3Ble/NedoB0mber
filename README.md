@@ -3,4 +3,4 @@
 
 cd NedoB0mber
 
-python NedoB0mber
+python NedoB0mber.py
