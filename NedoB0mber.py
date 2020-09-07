@@ -4,7 +4,7 @@ from colorama import Fore, Back, Style
 banner = """
  ____________________________________________________
 |                                                    |
-| [--] Название: NeonBomber                         |
+| [--] Название: NedoB0mber                         |
 |                                                    |
 | [--] Сервисов: 50                                  |
 |                                                    |
